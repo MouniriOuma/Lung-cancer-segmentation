@@ -43,3 +43,7 @@ The script performs the following steps:
 ## Notes
 - The classification rules (e.g., area, circularity, intensity thresholds) are example values and may need to be adjusted based on your specific dataset.
 - Ensure the input image is in grayscale format for optimal results.
+
+
+
+## Results
