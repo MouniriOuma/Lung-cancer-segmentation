@@ -47,5 +47,5 @@ The script performs the following steps:
 
 
 ## Results
-1.
-![step1 resultes](results/download (5).png)
+### Step one
+![step1 resultes](results/step1.png)
