@@ -52,3 +52,6 @@ The script performs the following steps:
 
 ### Step 2
 ![step2 resultes](results/step2.png)
+
+### Step 3
+![step3 resultes](results/step3.png)
