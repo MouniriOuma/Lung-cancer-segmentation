@@ -66,5 +66,8 @@ The script performs the following steps:
 ![step6 resultes](results/step6.png)
 
 ### Step 7
-![step7 resultes](results/step6.png)
+![step7 resultes](results/step7.png)
+
+### Step 8
+![step8 resultes](results/step8.png)
 
